@@ -1,4 +1,4 @@
-![image](https://github.com/wesleydmscn-docs/typescript-roadmap/assets/124368605/31ba48c7-5e3d-4101-8e47-14277aef05dd)
+![image](https://github.com/wesleydmscn-docs/typescript-roadmap/assets/124368605/766b8abd-34e1-48f8-9683-64488431a584)
 
 ---
 
