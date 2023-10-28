@@ -17,6 +17,8 @@ TypeScript was created to address the challenges
 of building large-scale JavaScript applications and adds optional type annotations, classes,
 interfaces, and other features to the language.
 
+In this repository you will see the entire progress of my study in Typescript, [here](https://roadmap.sh/typescript?s=6439ce5e11a85692d8944d9f) you can see my progress on the roadmap.sh website and below you can see all my notes in more detail.
+
 ## [Roadmap](https://github.com/orgs/wesleydmscn-docs/projects/3)
 
 | Milestones                                                                                    | Content                                                                                                                                         | Resources                                                                                                       |
